@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   2：绘制折线图
                        DESC
 
-  s.homepage         = 'https://github.com/winfast/TSBezierPathView'
+  s.homepage         = 'https://github.com/winfast'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'winfast' => 'qincc@galanz.com' }
