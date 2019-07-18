@@ -1,0 +1,6 @@
+framework module TSBezierPathView {
+  umbrella header "TSBezierPathView-umbrella.h"
+
+  export *
+  module * { export * }
+}

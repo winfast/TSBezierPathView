@@ -1,0 +1,24 @@
+PODS:
+  - Masonry (1.1.0)
+  - TSBezierPathView (1.0.0):
+    - Masonry
+
+DEPENDENCIES:
+  - Masonry (~> 1.1.0)
+  - TSBezierPathView (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  TSBezierPathView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  TSBezierPathView: f1307262f84ec80ac9aabcd85fa2a19603e29367
+
+PODFILE CHECKSUM: ebf57cc64b83e5a7b6d05757d89ac109c9e239f2
+
+COCOAPODS: 1.7.4
